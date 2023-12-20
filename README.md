@@ -1,2 +1,2 @@
-# SpringDataRESTfulAPI
- A simpe RESTful API made with Java Spring Data to connect to MongoDB
+# RESTfulSpringAPI
+ A Simple RESTful API with Spring Data using MongoDB for a User Database
